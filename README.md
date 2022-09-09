@@ -1,11 +1,6 @@
 # NFT_Images
 
-This git will hold the NFT images for MVP
-Using this flow
-```
-https://docs.google.com/presentation/d/1uGdgxnW-8Ikv_htPpK14v0J2kn2qrFpAsm76SpHXW-M/edit?usp=sharing
-```
-
+This git will hold the NFT images for dev testing
 The structure will be as follows
 examples/layers/[category]/[item]
 
