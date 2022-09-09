@@ -31,9 +31,12 @@ Later the names will be more specific like
 helmet_green.png
 ```
 
-Personal Access Token to Git Clone and read data
+Since its priviate repo, you need to go to each image first and get its url
+So accessing url
 ```
-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
+https://raw.githubusercontent.com/sayveprotocol/NFT_Images/main/examples/layers/Character/base.png?token=GHSAT0AAAAAABW7LHE6VIQCUSOBHNEZDNPOYY2YB2Q
+https://raw.githubusercontent.com/sayveprotocol/NFT_Images/main/examples/layers/Background/background.png?token=GHSAT0AAAAAABW7LHE6TIIFJNB37I5VPAIAYY2YDQA
+https://raw.githubusercontent.com/sayveprotocol/NFT_Images/main/examples/layers/Handheld/beer.png?token=GHSAT0AAAAAABW7LHE75KKZSRO6AJIOEBGQYY2YEJQ
 ```
 
 
