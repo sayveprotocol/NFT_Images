@@ -30,3 +30,10 @@ Later the names will be more specific like
 ``
 helmet_green.png
 ```
+
+Personal Access Token to Git Clone and read data
+```
+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
+```
+
+
