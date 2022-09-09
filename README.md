@@ -27,10 +27,9 @@ head002.png
 head003.png
 ```
 Later the names will be more specific like
-``
+```
 helmet_green.png
 ```
-
 Since its priviate repo, you need to go to each image first and get its url
 So accessing url
 ```
