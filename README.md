@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/sayveprotocol/NFT_Images/main/examples/layers/
 ```
 Character
 ```
-https://raw.githubusercontent.com/sayveprotocol/NFT_Images/main/examples/layers/Character/Base_black.png
+https://raw.githubusercontent.com/sayveprotocol/NFT_Images/main/examples/layers/Character/Base_default.png
 https://raw.githubusercontent.com/sayveprotocol/NFT_Images/main/examples/layers/Character/Base_blue.png
 https://raw.githubusercontent.com/sayveprotocol/NFT_Images/main/examples/layers/Character/Base_green.png
 https://raw.githubusercontent.com/sayveprotocol/NFT_Images/main/examples/layers/Character/Base_red.png
