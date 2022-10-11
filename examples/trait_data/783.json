@@ -1,0 +1,18 @@
+[
+    {
+        "trait_type": "background",
+        "value": "Background green"
+    },
+    {
+        "trait_type": "pfp",
+        "value": "character default-5"
+    },
+    {
+        "trait_type": "eyes",
+        "value": "character default-11"
+    },
+    {
+        "trait_type": "mouth",
+        "value": "character default-3"
+    }
+]
