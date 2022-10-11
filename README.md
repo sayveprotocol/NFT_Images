@@ -8,11 +8,11 @@ The category will be one of the following
 ```
 Background
 Character
-Head
+Headwear
 Body
 Hands
 Handheld
-Feet
+Shoes
 Bonus_items 
 ```
 And within each Category is the items that labelled according to their name
