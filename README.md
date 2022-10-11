@@ -6,7 +6,6 @@ examples/layers/[category]/[item]
 
 The category will be one of the following
 ```
-Background
 Character
 Headwear
 Body
